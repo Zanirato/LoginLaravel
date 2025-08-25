@@ -1,6 +1,4 @@
-# loginlaravel
-
-## 🎶 Sgt. Pepper’s Laravel Auth
+# 🎶 Sgt. Pepper’s Laravel Auth
 
 Sistema em Laravel com páginas de Cadastro, Login, Alterar Senha e uma Área Restrita após login.
 O design é inspirado no álbum Sgt. Pepper’s Lonely Hearts Club Band dos Beatles.
